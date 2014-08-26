@@ -1,5 +1,19 @@
 { "services": [
   {
+    "title": "EMFM",
+    "id": "emfm",
+    "liveDataId": "emfm",
+    "streamId": "emfm",
+    "logoId": "emfm",
+    "nitroId": "",
+    "dabId": "",
+    "metadataHost":"dev.notu.be",
+    "metadataPath":"/2014/08/radiodan/emfm_now-and-next.json",
+    "colour": {
+      "hex": "#247DC7"
+    }
+  },
+  {
     "title": "BBC Radio 1",
     "id": "radio1",
     "liveDataId": "radio1",
