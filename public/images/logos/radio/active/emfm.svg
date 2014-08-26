@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.1"
-   width="744.09448"
-   height="1052.3622"
+   width="113.38583"
+   height="73.317154"
    id="svg2">
   <defs
      id="defs4" />
@@ -27,6 +27,7 @@
     </rdf:RDF>
   </metadata>
   <g
+     transform="translate(-1.2857274,-2.1878879)"
      id="layer1">
     <image
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQoAAACsCAYAAACD+eKOAAAABHNCSVQICAgIfAhkiAAAEq9JREFU
@@ -117,9 +118,9 @@ IiEGBREJMSiISIhBQURCDAoiEmJQEJEQg4KIhBgURCTEoCAiIQYFEQkxKIhI6P8AeZB4wE8MA7kA
 AAAASUVORK5CYII=
 "
        x="1.2857274"
-       y="0.64789695"
-       width="266"
-       height="172"
+       y="2.1878879"
+       width="113.38583"
+       height="73.317154"
        id="image3023" />
   </g>
 </svg>
